@@ -11,3 +11,5 @@ Git has mutable index called stage.
 just see see
 
 see again
+
+git tracks changes.
