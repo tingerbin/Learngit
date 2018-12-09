@@ -12,4 +12,4 @@ just see see
 
 see again
 
-git tracks changes.
+git tracks changes of file.
