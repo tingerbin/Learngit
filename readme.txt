@@ -6,4 +6,6 @@ Git is free software distributed under GPL.
 
 add new line.
 
-Git has mutable index called stage..
+Git has mutable index called stage.
+
+just see see
