@@ -1,15 +1,17 @@
-Git is a version control system.
-Git is free software.
+1. git init 创建管理仓库
+git init Initialized enpty Git repository in /User/git_learning/.git/
 
-Git is a distributes version control system.
-Git is free software distributed under GPL.
+2. git add 添加文件/文件夹（非空）
+git add filename
 
-add new line.
+3. git commit 提交
+git commit -m "提交信息"
 
-Git has mutable index called stage.
+4. git remote add 提交远程仓库
+git remote add origin https://github.com/tingerbin/Learngit.git
 
-just see see
+5. git push 推送至远程仓库
+git push -u origin master
 
-see again
-
-git tracks changes of file.
+6. git clone 克隆一个库
+git clone https://github.com/tingerbin/Learngit.git
